@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-9%!juaijq&@13aoudv87cdnna0kmwoaq$b!%vm-9jpd4=k+p@c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['32dedd77570e406e8518dce5229770b0-2886733829-23000-host09nc.environments.katacoda.com']
+ALLOWED_HOSTS = ['32dedd77570e406e8518dce5229770b0-2886733829-23000-host09nc.environments.katacoda.com',
+'2886732805-23000-host22nc.environments.katacoda.com']
 
 
 # Application definition
