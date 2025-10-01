@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-9%!juaijq&@13aoudv87cdnna0kmwoaq$b!%vm-9jpd4=k+p@c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['2886735877-23000-host21nc.environments.katacoda.com']
+ALLOWED_HOSTS = ['2886731781-8000-host24nc.environments.katacoda.com']
 
 
 # Application definition
@@ -123,3 +123,5 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+CSRF_TRUSTED_ORIGINS=['https://2886731781-8000-host24nc.environments.katacoda.com']
